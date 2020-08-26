@@ -1,3 +1,4 @@
+# this needs to fix so that this can use for any devices
 import psycopg2
 import time
 import os
